@@ -41,7 +41,7 @@ data:
         - needs-rebase
         repos:
         - ravienggtoo/jenkins-gitops
-      target_url: http://lighthouse-jx./merge/status
+      target_url: http://lighthouse-jx.3.69.131.22.nip.io/merge/status
 kind: ConfigMap
 metadata:
   creationTimestamp: null
